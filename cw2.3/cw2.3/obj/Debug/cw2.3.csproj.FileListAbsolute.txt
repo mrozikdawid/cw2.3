@@ -1,0 +1,9 @@
+D:\progiObiektowe\cw2.3\cw2.3\bin\Debug\cw2.3.exe.config
+D:\progiObiektowe\cw2.3\cw2.3\bin\Debug\cw2.3.exe
+D:\progiObiektowe\cw2.3\cw2.3\bin\Debug\cw2.3.pdb
+D:\progiObiektowe\cw2.3\cw2.3\obj\Debug\cw2.3.csprojResolveAssemblyReference.cache
+D:\progiObiektowe\cw2.3\cw2.3\obj\Debug\cw2.3.exe
+D:\progiObiektowe\cw2.3\cw2.3\obj\Debug\cw2.3.pdb
+F:\PO cwiczenia2\cw2.3\cw2.3\bin\Debug\cw2.3.exe.config
+F:\PO cwiczenia2\cw2.3\cw2.3\obj\Debug\cw2.3.exe
+F:\PO cwiczenia2\cw2.3\cw2.3\obj\Debug\cw2.3.pdb
